@@ -1,0 +1,10 @@
+^C:\USERS\ARTEM\SOURCE\LAB 2.2\COMPLEX\BUILD\CMAKEFILES\FD41A21DE81F6EEB4419DB964A4692FF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/artem/source/Lab 2.2/Complex" "-BC:/Users/artem/source/Lab 2.2/Complex/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/artem/source/Lab 2.2/Complex/build/ComplexLibTest.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

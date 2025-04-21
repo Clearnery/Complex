@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\source\\Lab 2.2\\Complex\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682D1F27-AA9A-3A04-B1EE-B436622CDF7B}|test\\ComplexLibTest.vcxproj|C:\\Users\\artem\\source\\Lab 2.2\\Complex\\test\\test_\u0421omplex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8E2BAC-DE7A-3DD6-AFE0-A242DAA8366C}|Complex\\ComplexApplication.vcxproj|C:\\Users\\artem\\source\\Lab 2.2\\Complex\\Complex\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\Lab 2.2\\Complex\\Complex\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Complex\\Main.cpp",
+              "ToolTip": "C:\\Users\\artem\\source\\Lab 2.2\\Complex\\Complex\\Main.cpp",
+              "RelativeToolTip": "..\\Complex\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T16:32:42.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_\u0421omplex.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\Lab 2.2\\Complex\\test\\test_\u0421omplex.cpp",
+              "RelativeDocumentMoniker": "..\\test\\test_\u0421omplex.cpp",
+              "ToolTip": "C:\\Users\\artem\\source\\Lab 2.2\\Complex\\test\\test_\u0421omplex.cpp*",
+              "RelativeToolTip": "..\\test\\test_\u0421omplex.cpp*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T16:31:18.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

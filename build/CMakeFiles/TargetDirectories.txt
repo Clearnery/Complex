@@ -1,0 +1,6 @@
+C:/Users/artem/source/Lab 2.2/Complex/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/artem/source/Lab 2.2/Complex/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/artem/source/Lab 2.2/Complex/build/Complex/CMakeFiles/ComplexApplication.dir
+C:/Users/artem/source/Lab 2.2/Complex/build/Complexlib/CMakeFiles/ComplexLibrary.dir
+C:/Users/artem/source/Lab 2.2/Complex/build/gtest/CMakeFiles/gtest.dir
+C:/Users/artem/source/Lab 2.2/Complex/build/test/CMakeFiles/ComplexLibTest.dir
